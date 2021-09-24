@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "igvbrowserdemo12d7baca": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
