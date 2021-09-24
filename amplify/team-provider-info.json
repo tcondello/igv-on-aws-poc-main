@@ -2,13 +2,13 @@
   "dev": {
     "awscloudformation": {
       "AuthRoleName": "amplify-igvbrowserdemo-dev-102931-authRole",
-      "UnauthRoleArn": "arn:aws:iam::128983943475:role/amplify-igvbrowserdemo-dev-102931-unauthRole",
-      "AuthRoleArn": "arn:aws:iam::128983943475:role/amplify-igvbrowserdemo-dev-102931-authRole",
+      "UnauthRoleArn": "arn:aws:iam::xxxxxxxxxxxx:role/amplify-igvbrowserdemo-dev-102931-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::xxxxxxxxxxxx:role/amplify-igvbrowserdemo-dev-102931-authRole",
       "Region": "us-east-1",
       "DeploymentBucketName": "amplify-igvbrowserdemo-dev-102931-deployment",
       "UnauthRoleName": "amplify-igvbrowserdemo-dev-102931-unauthRole",
       "StackName": "amplify-igvbrowserdemo-dev-102931",
-      "StackId": "arn:aws:cloudformation:us-east-1:128983943475:stack/amplify-igvbrowserdemo-dev-102931/3c269590-eaf9-11eb-bf6d-0a1b80b6a4c7",
+      "StackId": "arn:aws:cloudformation:us-east-1:xxxxxxxxxxxx:stack/amplify-igvbrowserdemo-dev-102931/3c269590-eaf9-11eb-bf6d-0a1b80b6a4c7",
       "AmplifyAppId": "d3kvhifyb49nol"
     },
     "categories": {
