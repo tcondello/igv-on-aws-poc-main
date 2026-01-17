@@ -10,7 +10,7 @@
     "@testing-library/user-event": "^12.1.10",
     "amazon-cognito-identity-js": "^5.0.5",
     "antd": "^4.16.8",
-    "aws-amplify": "^4.2.0",
+    "aws-amplify": "^4.3.46",
     "aws-sdk": "^2.951.0",
     "igv": "^2.9.2",
     "react": "^17.0.2",
